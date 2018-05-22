@@ -10,6 +10,5 @@ Proof:
 3. `make`
 
 Tested with:
-* Linux
-* XTerm(312)
-* g++-6 (Debian 6.3.0-18) 6.3.0 20170516
+* Linux, XTerm(312), g++-6 (Debian 6.3.0-18) 6.3.0 20170516
+* Linux, XTerm(312), g++-8 (Debian 8.1.0-3) 8.1.0
